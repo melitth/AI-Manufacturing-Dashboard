@@ -1,4 +1,4 @@
-# AI Manufacturing Predictive Maintenance Dashboard
+# AI-Driven Manufacturing Performance & Predictive Maintenance Analytics System
 ## Business Problem
 Manufacturing environments often face unplanned downtime, inefficient maintenance scheduling, and limited visibility into production performance, leading to increased operational costs.
 ## Solution
