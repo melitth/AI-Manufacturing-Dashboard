@@ -1,4 +1,4 @@
-![Dashboard Screenshot](./AI-Driven%20Manufacturing%20Performance%20%26%20Predictive%20Maintenance%20Analytics%20System/visuals/dashboard-screenshot.png)
+![Dashboard Screenshot](./dashboard-screenshot.png)
 
 # AI-Driven Manufacturing Performance & Predictive Maintenance Analytics System
 This project demonstrates a manufacturing analytics system designed to monitor production performance, track operational KPIs, and support data-driven decision-making in industrial environments.
