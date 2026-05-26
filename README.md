@@ -24,7 +24,7 @@ The dashboard evaluates:
 - Predictive Maintenance Concepts
 
 ## Dashboard Preview
-(Add screenshot here)
+(dashboard-screenshot.png)
 
 ## Key Insights
 Higher tool wear and abnormal torque values may indicate increased machine failure risk.
