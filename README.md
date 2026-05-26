@@ -1,4 +1,7 @@
 # AI-Driven Manufacturing Performance & Predictive Maintenance Analytics System
+This project demonstrates a manufacturing analytics system designed to monitor production performance, track operational KPIs, and support data-driven decision-making in industrial environments.
+## System Thinking
+Data → Processing → Visualization → Decision-making
 ## Business Problem
 Manufacturing environments often face unplanned downtime, inefficient maintenance scheduling, and limited visibility into production performance, leading to increased operational costs.
 ## Solution
